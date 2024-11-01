@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-02-23 09:58+0500\n"
+"PO-Revision-Date: 2019-02-23 10:45+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core.php:218
+msgid "Settings"
+msgstr "die Einstellungen"
+
+#: core.php:228 templates/settings-page.php:424
+msgid "Go Premium"
+msgstr "Premium werden"
+
+#: templates/settings-page.php:24
+msgid "Active platforms"
+msgstr "Aktive Plattformen"
+
+#: templates/settings-page.php:62
+msgid "Tutorsloop"
+msgstr "Tutorsloop"
+
+#: templates/settings-page.php:133
+msgid "Drag the social icon to change the order."
+msgstr "Ziehen Sie das soziale Symbol, um die Reihenfolge zu ändern."
+
+#: templates/settings-page.php:141
+msgid "Active Type"
+msgstr "Aktiver Typ"
+
+#: templates/settings-page.php:145
+msgid "Icons"
+msgstr "Icons"
+
+#: templates/settings-page.php:147
+msgid "Text"
+msgstr "Text"
+
+#: templates/settings-page.php:171
+msgid "Text before Sharing buttons"
+msgstr "Text vor dem Freigeben von Schaltflächen"
+
+#: templates/settings-page.php:183 templates/settings-page.php:195
+msgid "Share button text"
+msgstr "Schaltflächentext freigeben"
+
+#: templates/settings-page.php:207 templates/settings-page.php:219
+#: templates/settings-page.php:231 templates/settings-page.php:243
+msgid "share button text"
+msgstr "Teilen Sie den Schaltflächentext"
+
+#: templates/settings-page.php:265
+msgid "Default share image"
+msgstr "Standardfreigabebild"
+
+#: templates/settings-page.php:269
+msgid "Upload"
+msgstr "Hochladen"
+
+#: templates/settings-page.php:271
+msgid "Remove"
+msgstr "Löschen"
+
+#: templates/settings-page.php:273
+msgid "Required for"
+msgstr "Benötigt für"
+
+#: templates/settings-page.php:283
+msgid "Customization"
+msgstr "Anpassung"
+
+#: templates/settings-page.php:287
+msgid "Use default CSS"
+msgstr "Verwenden Sie Standard-CSS"
+
+#: templates/settings-page.php:291
+msgid "Use popups for sharing"
+msgstr "Verwenden Sie Popups zum Teilen"
+
+#: templates/settings-page.php:303
+msgid "Add sharing links to?"
+msgstr "Freigabe-Links hinzufügen zu?"
+
+#: templates/settings-page.php:327
+msgid ""
+"Will add the sharing links to the end of the bottom of these post types."
+msgstr "Fügt die Freigabe-Links am Ende des Pfostentyps hinzu."
+
+#: templates/settings-page.php:337
+msgid "Profile"
+msgstr "Profil"
+
+#: templates/settings-page.php:345
+msgid "If you want to append"
+msgstr "Wenn Sie anhängen möchten"
+
+#: templates/settings-page.php:345
+msgid "to tweets."
+msgstr "zu Tweets."
+
+#: templates/settings-page.php:373
+msgid "Need Help?"
+msgstr "Brauche Hilfe?"
+
+#: templates/settings-page.php:375
+msgid "Post your issue on"
+msgstr "Poste deine Ausgabe auf"
+
+#: templates/settings-page.php:375
+msgid "plugin support forums"
+msgstr "Support-Foren für Plugins"
+
+#: templates/settings-page.php:375
+msgid "on"
+msgstr "auf"
+
+#: templates/settings-page.php:387
+msgid "Shortcodes"
+msgstr "Kurzwahlnummern"
+
+#: templates/settings-page.php:406
+msgid "For your website pages to share."
+msgstr "Für Ihre Website-Seiten zum Teilen."
+
+#: templates/settings-page.php:415
+msgid "For your social links."
+msgstr "Für deine sozialen Verbindungen."
+
+#: templates/settings-page.php:424
+msgid "Premium Shortcodes"
+msgstr "Prämie Kurzwahlnummern"
+
+#: templates/settings-page.php:432
+msgid "will enable you in the following things"
+msgstr "wird Ihnen in den folgenden Dingen ermöglichen"
+
+#: templates/settings-page.php:436
+msgid "People can share content on your website like they share on"
+msgstr ""
+"Personen können Inhalte auf Ihrer Website teilen, auf die sie zugreifen"
+
+#: templates/settings-page.php:436
+msgid "and shared content will be displayed on a page with this shortcode."
+msgstr ""
+"und freigegebener Inhalt wird auf einer Seite mit diesem Kurzcode "
+"angezeigt."
+
+#: templates/settings-page.php:438
+msgid "Sharing will work only if you enabled registration from"
+msgstr ""
+"Die Freigabe funktioniert nur, wenn Sie die Registrierung von aktiviert "
+"haben"
+
+#: templates/settings-page.php:438
+msgid "settings page"
+msgstr "Einstellungsseite"
+
+#: templates/settings-page.php:444
+msgid ""
+"You can control the users that if someone is spamming so simply restrict "
+"them from"
+msgstr ""
+"Sie können die Benutzer steuern, wenn jemand spammt, also einfach "
+"einschränken"
+
+#: templates/settings-page.php:444
+msgid "user settings"
+msgstr "Benutzereinstellungen"
+
+#: templates/settings-page.php:446
+msgid "You can ask"
+msgstr "Du kannst Fragen"
+
+#: templates/settings-page.php:446
+msgid "Team"
+msgstr "Mannschaft"
+
+#: templates/settings-page.php:446
+msgid "to add your website logo as a sharing portal."
+msgstr "um Ihr Website-Logo als Freigabeportal hinzuzufügen."
+
+#: templates/settings-page.php:446
+msgid "Click here"
+msgstr "Klick hier"
+
+#: templates/settings-page.php:446
+msgid "to check requirements."
+msgstr "Anforderungen prüfen."

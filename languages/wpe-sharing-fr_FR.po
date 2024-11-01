@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-02-23 10:46+0500\n"
+"PO-Revision-Date: 2019-02-23 10:51+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core.php:218
+msgid "Settings"
+msgstr "Réglages"
+
+#: core.php:228 templates/settings-page.php:424
+msgid "Go Premium"
+msgstr "Passer en Premium"
+
+#: templates/settings-page.php:24
+msgid "Active platforms"
+msgstr "Plateformes actives"
+
+#: templates/settings-page.php:62
+msgid "Tutorsloop"
+msgstr "Tutorsloop"
+
+#: templates/settings-page.php:133
+msgid "Drag the social icon to change the order."
+msgstr "Faites glisser l'icône sociale pour changer l'ordre."
+
+#: templates/settings-page.php:141
+msgid "Active Type"
+msgstr "Type actif"
+
+#: templates/settings-page.php:145
+msgid "Icons"
+msgstr "Les icônes"
+
+#: templates/settings-page.php:147
+msgid "Text"
+msgstr "Les icônesTexte"
+
+#: templates/settings-page.php:171
+msgid "Text before Sharing buttons"
+msgstr "Texte avant les boutons de partage"
+
+#: templates/settings-page.php:183 templates/settings-page.php:195
+msgid "Share button text"
+msgstr "Partager le texte du bouton"
+
+#: templates/settings-page.php:207 templates/settings-page.php:219
+#: templates/settings-page.php:231 templates/settings-page.php:243
+msgid "share button text"
+msgstr "partager le texte du bouton"
+
+#: templates/settings-page.php:265
+msgid "Default share image"
+msgstr "Image de partage par défaut"
+
+#: templates/settings-page.php:269
+msgid "Upload"
+msgstr "Télécharger"
+
+#: templates/settings-page.php:271
+msgid "Remove"
+msgstr "Retirer"
+
+#: templates/settings-page.php:273
+msgid "Required for"
+msgstr "Requis pour"
+
+#: templates/settings-page.php:283
+msgid "Customization"
+msgstr "Personnalisation"
+
+#: templates/settings-page.php:287
+msgid "Use default CSS"
+msgstr "Utiliser les CSS par défaut"
+
+#: templates/settings-page.php:291
+msgid "Use popups for sharing"
+msgstr "Utiliser les popups pour le partage"
+
+#: templates/settings-page.php:303
+msgid "Add sharing links to?"
+msgstr "Ajouter des liens de partage à?"
+
+#: templates/settings-page.php:327
+msgid ""
+"Will add the sharing links to the end of the bottom of these post types."
+msgstr ""
+"Ajoutera les liens de partage à la fin du bas de ces types de "
+"publication."
+
+#: templates/settings-page.php:337
+msgid "Profile"
+msgstr "Profil"
+
+#: templates/settings-page.php:345
+msgid "If you want to append"
+msgstr "Si vous voulez ajouter"
+
+#: templates/settings-page.php:345
+msgid "to tweets."
+msgstr "aux tweets."
+
+#: templates/settings-page.php:373
+msgid "Need Help?"
+msgstr "Besoin d'aide pour?"
+
+#: templates/settings-page.php:375
+msgid "Post your issue on"
+msgstr "Postez votre problème sur"
+
+#: templates/settings-page.php:375
+msgid "plugin support forums"
+msgstr "plugin forums d'assistance"
+
+#: templates/settings-page.php:375
+msgid "on"
+msgstr "sur"
+
+#: templates/settings-page.php:387
+msgid "Shortcodes"
+msgstr "Codes courts"
+
+#: templates/settings-page.php:406
+msgid "For your website pages to share."
+msgstr "Pour les pages de votre site Web à partager."
+
+#: templates/settings-page.php:415
+msgid "For your social links."
+msgstr "Pour vos liens sociaux."
+
+#: templates/settings-page.php:424
+msgid "Premium Shortcodes"
+msgstr "Premium Shortcodes"
+
+#: templates/settings-page.php:432
+msgid "will enable you in the following things"
+msgstr "vous permettra dans les choses suivantes"
+
+#: templates/settings-page.php:436
+msgid "People can share content on your website like they share on"
+msgstr ""
+"Les gens peuvent partager du contenu sur votre site Web comme ils le "
+"partagent sur"
+
+#: templates/settings-page.php:436
+msgid "and shared content will be displayed on a page with this shortcode."
+msgstr "et le contenu partagé sera affiché sur une page avec ce shortcode."
+
+#: templates/settings-page.php:438
+msgid "Sharing will work only if you enabled registration from"
+msgstr ""
+"Le partage ne fonctionnera que si vous avez activé l'enregistrement à "
+"partir de"
+
+#: templates/settings-page.php:438
+msgid "settings page"
+msgstr "page de paramètres"
+
+#: templates/settings-page.php:444
+msgid ""
+"You can control the users that if someone is spamming so simply restrict "
+"them from"
+msgstr ""
+"Vous pouvez contrôler les utilisateurs que si quelqu'un envoie du spam, "
+"il vous suffit de les empêcher de"
+
+#: templates/settings-page.php:444
+msgid "user settings"
+msgstr "paramètres utilisateur"
+
+#: templates/settings-page.php:446
+msgid "You can ask"
+msgstr "Vous pouvez demander"
+
+#: templates/settings-page.php:446
+msgid "Team"
+msgstr "Équipe"
+
+#: templates/settings-page.php:446
+msgid "to add your website logo as a sharing portal."
+msgstr ""
+"d'ajouter le logo de votre site Web en tant que portail de partage."
+
+#: templates/settings-page.php:446
+msgid "Click here"
+msgstr "Cliquez ici"
+
+#: templates/settings-page.php:446
+msgid "to check requirements."
+msgstr "pour vérifier les exigences."
